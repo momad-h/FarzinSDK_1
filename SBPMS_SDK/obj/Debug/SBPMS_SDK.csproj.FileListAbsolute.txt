@@ -1,0 +1,7 @@
+E:\ICAN\توسعه\SDK_Sample\SDK_Sample\SBPMS_SDK\obj\Debug\SBPMS_SDK.csproj.CoreCompileInputs.cache
+E:\ICAN\توسعه\SDK_Sample\SDK_Sample\SBPMS_SDK\bin\Debug\SBPMS_SDK.dll
+E:\ICAN\توسعه\SDK_Sample\SDK_Sample\SBPMS_SDK\bin\Debug\SBPMS_SDK.pdb
+E:\ICAN\توسعه\SDK_Sample\SDK_Sample\SBPMS_SDK\bin\Debug\ICAN.FarzinSDK.WebServices.Proxy.dll
+E:\ICAN\توسعه\SDK_Sample\SDK_Sample\SBPMS_SDK\obj\Debug\SBPMS_SDK.csproj.CopyComplete
+E:\ICAN\توسعه\SDK_Sample\SDK_Sample\SBPMS_SDK\obj\Debug\SBPMS_SDK.dll
+E:\ICAN\توسعه\SDK_Sample\SDK_Sample\SBPMS_SDK\obj\Debug\SBPMS_SDK.pdb

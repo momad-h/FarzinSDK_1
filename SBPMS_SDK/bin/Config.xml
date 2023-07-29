@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Information>
+      <Settings>
+        <DB_Server Value="." />
+        <DB_DataBaseName Value="ICANSBPMS" />
+        <DB_Username Value="Farzin" />
+        <DB_Password Value="Aa123456" />
+        <FarzinUserName Value="100" />
+        <FarzinPassword Value="Bb123456" />
+        <FarzinWebServiceUrl Value="http://172.16.4.135" />
+        <BatchStartFlowSP Value="" />
+        <BatchInsertDocumentSP Value="" />
+      </Settings>
+  </Information>
+</Configuration>
